@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "name": "Laptop",
+      "category": "Electronics",
+      "price": 999,
+      "rating": 4.5,
+      "image": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fGxhcHRvcHxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": 2,
+      "name": "Shoes",
+      "category": "Fashion",
+      "price": 50,
+      "rating": 4.0,
+      "image": "https://img.freepik.com/free-photo/elegant-black-leather-shoes-men-black-background-photo-studio-style-ai-generative_123827-23442.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Smartphone",
+      "category": "Electronics",
+      "price": 599,
+      "rating": 4.7,
+      "image": "https://p.kindpng.com/picc/s/422-4225211_new-mobile-phone-png-transparent-cartoons-smart-phones.png"
+    },
+    {
+      "id": 4,
+      "name": "T-shirt",
+      "category": "Fashion",
+      "price": 20,
+      "rating": 4.3,
+      "image": "https://cdn.pixabay.com/photo/2016/12/06/09/30/blank-1886001_640.png"
+    },
+    {
+      "id": 5,
+      "name": "Washing Machine",
+      "category": "Home Appliances",
+      "price": 300,
+      "rating": 4.2,
+      "image": "https://w7.pngwing.com/pngs/39/324/png-transparent-washing-machines-lg-electronics-home-appliance-washing-machine-electronics-clothes-dryer-vacuum-cleaner.png"
+    }
+  ]
+  
